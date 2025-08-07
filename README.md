@@ -30,7 +30,7 @@ source install.sh
 | `Super` + `T` | `Kitty` |
 | `Super` + `Q` | `Killactive` |
 | `Super` + `N` | `Thunar` |
-| `Super` + `O` | `Firefox` |
+| `Super` + `O` | `Brave` |
 | `Super` + `D` | `Wofi` |
 | `Super` + Shift + `C` | `Themes-Menu` |
 | `Super` + `F` | `Fullscreen` |
